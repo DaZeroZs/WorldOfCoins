@@ -1,0 +1,10 @@
+{
+  "name": "hash-length-extension-node-demo",
+  "version": "1.0.0",
+  "description": "CTF training demo for Hash Length Extension Attack against Hash(secret || message)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
