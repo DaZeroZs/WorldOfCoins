@@ -1,0 +1,10 @@
+{
+  "name": "ecdsa-k-reuse-node-demo-no-npm",
+  "version": "1.0.0",
+  "description": "ECDSA nonce reuse CTF demo without npm dependencies",
+  "scripts": {
+    "start": "node server.js",
+    "solve": "node solve.js"
+  },
+  "dependencies": {}
+}
